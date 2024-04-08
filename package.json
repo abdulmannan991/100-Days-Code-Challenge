@@ -1,12 +1,12 @@
 {
-  "name": "2nd-day",
+  "name": "10th-day",
   "version": "1.0.0",
   "description": "",
-  "main": "Day2.js",
-  "type": "module",
+  "main": "10_day.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC"
 }
